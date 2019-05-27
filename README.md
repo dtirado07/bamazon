@@ -21,5 +21,5 @@ Bamazon Manager - Add Inventory
 ![Screenshot](/Manager-AddInventory.png)
 
 Bamazon Manager - Add New Product
-![Screenshot](/Manager-addProduct.png)
+![Screenshot](/Manager-AddProduct.png)
 
